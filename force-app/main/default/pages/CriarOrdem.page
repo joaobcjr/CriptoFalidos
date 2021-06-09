@@ -1,0 +1,3 @@
+<apex:page standardController="Ordem__c"   >
+        <flow:interview name="CriacaoOrdem" finishLocation="{!URLFOR('/lightning/o/Ordem__c/list')}"/>
+    </apex:page>
