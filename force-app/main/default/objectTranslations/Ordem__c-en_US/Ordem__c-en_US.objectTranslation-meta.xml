@@ -8,68 +8,6 @@
         <plural>true</plural>
         <value>Ordens</value>
     </caseValues>
-    <layouts>
-        <layout>Layout de Compra</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Datas</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Preço</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Quantidade</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Status</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Total</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Valores</section>
-        </sections>
-    </layouts>
-    <layouts>
-        <layout>Layout de Venda</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Datas</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Preço</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Quantidade</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Status</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Total</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Valores</section>
-        </sections>
-    </layouts>
     <quickActions>
         <label></label>
         <name>Cancelar</name>

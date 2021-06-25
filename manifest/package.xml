@@ -182,10 +182,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Dashboard</name>
     </types>
     <types>
@@ -258,10 +254,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Flow</name>
     </types>
     <types>
@@ -295,14 +287,6 @@
     <types>
         <members>*</members>
         <name>Index</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>InstalledPackage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Layout</name>
     </types>
     <types>
         <members>*</members>
@@ -367,10 +351,6 @@
     <types>
         <members>*</members>
         <name>PostTemplate</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Profile</name>
     </types>
     <types>
         <members>*</members>

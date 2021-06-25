@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>51.0</apiVersion>
     <decisions>
         <name>isChangedDecision8_myRule_7_Preco_c</name>
         <label>isChangedDecision8_myRule_7_Preco_c</label>
@@ -696,6 +697,7 @@
         <connector>
             <targetReference>myDecision13</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -779,6 +781,7 @@
         <connector>
             <targetReference>myDecision17</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -898,6 +901,7 @@
         <connector>
             <targetReference>myDecision21</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -1017,6 +1021,7 @@
         <connector>
             <targetReference>myDecision3</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -1097,6 +1102,7 @@
         <label>CalcPrecoMedio</label>
         <locationX>2200</locationX>
         <locationY>200</locationY>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -1180,6 +1186,7 @@
         <connector>
             <targetReference>myDecision6</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -1263,6 +1270,7 @@
         <connector>
             <targetReference>myDecision11</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
         <filters>
             <processMetadataValues>
                 <name>implicit</name>
@@ -1315,7 +1323,7 @@
         <object>Ordem__c</object>
     </recordUpdates>
     <startElementReference>isChangedDecision8_myRule_7_Preco_c</startElementReference>
-    <status>Active</status>
+    <status>Obsolete</status>
     <variables>
         <name>myVariable_current</name>
         <dataType>SObject</dataType>
